@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dvtushar
-- 👀 I’m interested in web development,app development and AI.
-- 🌱 I’m currently learning web and app development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning data analysis
 - 📫 reach me through tushardev.work@gmail.com
 
 <!---

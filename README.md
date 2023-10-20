@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar dev</h1>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /
 <h3 align="center">A passionate AI and ML Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvtushar&label=Profile%20views&color=0e75b6&style=flat" alt="dvtushar" /> </p>

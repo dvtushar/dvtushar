@@ -3,7 +3,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvtushar&label=Profile%20views&color=0e75b6&style=flat" alt="dvtushar" /> </p>
 
-[![An image of @dvtushar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dvtushar)](https://holopin.io/@dvtushar)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Data science**

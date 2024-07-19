@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data science**
 
-- 🌱 I’m currently learning **Data Science and ML**
+- 🌱 I’m currently learning **Genarative AI Along with Langchain**
 
 - 📫 How to reach me **tushardev.work@gmail.com**
 
